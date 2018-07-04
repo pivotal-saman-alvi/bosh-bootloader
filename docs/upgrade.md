@@ -19,5 +19,6 @@ bbl5 up --lb-type cf --lb-cert cert --lb-key key --lb-domain domain.com
 bbl6 plan --lb-type cf --lb-cert cert --lb-key key --lb-domain domain.com
 bbl6 up
 
+# some time passes
 bbl6 destroy
 ```
